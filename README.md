@@ -1,6 +1,7 @@
 # AI-Python-Code-Evaluation
 This repository evaluates AI models' Python code generation abilities across tasks from basic syntax to complex algorithms. It compares models based on correctness, efficiency, and code quality.
 ### Project Overview: Evaluating AI Code Generation in Python
+### Systematic Evaluation of AI-Generated Python Code: A Comparative Study Across Progressive Programming Tasks
 
 **Objective:**
 The primary objective of this project is to systematically evaluate and compare the code generation abilities of various AI models in Python. By doing so, we aim to identify the strengths and limitations of each model across a spectrum of coding tasks, ranging from basic syntax and logic to more complex algorithm implementation, data manipulation, and machine learning.
